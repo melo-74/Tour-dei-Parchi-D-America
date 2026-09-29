@@ -1,0 +1,6 @@
+{
+  "name": "Road Trip Parchi USA",
+  "description": "Presentazione interattiva e dinamica del viaggio nei grandi parchi americani con mappe dei percorsi, foto e tappe dettagliate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
